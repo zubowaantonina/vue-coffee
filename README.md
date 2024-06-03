@@ -1,4 +1,4 @@
-# glo-vue
+# vue-coffee
 
 ## Project setup
 ```
